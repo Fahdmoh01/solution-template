@@ -3,7 +3,9 @@ fastapi
 pydantic
 requests
 uvicorn
+pandas
 mkdocs-material
+python-dotenv
 
 # dev requirements -
 pytest==7.1.3

@@ -4,4 +4,6 @@ pydantic
 requests
 uvicorn
 mkdocs-material
--e .
+python-dotenv
+pandas
+-e .s
